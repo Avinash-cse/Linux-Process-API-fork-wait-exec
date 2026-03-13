@@ -62,7 +62,6 @@ Test the C Program for the desired output.
 
 
 
-![Alt text](2.png)
 
 
 
